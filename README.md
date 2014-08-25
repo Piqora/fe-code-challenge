@@ -20,6 +20,8 @@ A Node.js web server is provided to help you along the way. Once you clone the r
 
     node server.js
 
+You will now have a server running at localhost:8888, feel free to edit server.js if you prefer a port other than 8888.
+
 Don't have node installed? Visit [Nodejs.org](http://nodejs.org)
 
 ####CSS Framework
