@@ -3,7 +3,7 @@ var url = require("url");
 var path = require("path");
 var fs = require("fs");
 
-var port = process.env.PORT || 8888;
+var port = 8888;
  
 http.createServer(function(request, response) {
  
